@@ -1,0 +1,3 @@
+SELECT *
+FROM stream
+LIMIT 20;
